@@ -1,0 +1,24 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "22.560",
+   "id": "f000001",
+   "language": "eng",
+   "lines": [
+    "All right, good afternoon everyone."
+   ]
+  },
+  {
+   "begin": "22.560",
+   "children": [],
+   "end": "36.160",
+   "id": "f000002",
+   "language": "eng",
+   "lines": [
+    "This morning, the State of Neywork filed"
+   ]
+  }
+ ]
+}
